@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariasantos13
 - 👀 I’m interested in data analysis and business intelligence.
-- 🌱 I’m currently learning SQL, Power BI, and Google Sheets for data-driven decision making.
+- 🌱 I’m currently learning SQL, Power BI,Python and Google Sheets for data-driven decision making.
 - 💞️  I’m looking to collaborate on projects that involve data insights and process improvement.
 - 📫 How to reach me: mariauk027@gmail.com
 - 😄 Pronouns: She/Her
